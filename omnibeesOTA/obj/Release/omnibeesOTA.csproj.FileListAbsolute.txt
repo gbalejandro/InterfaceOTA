@@ -1,0 +1,7 @@
+C:\Proyectos\Web\omnibeesOTA\omnibeesOTA\bin\omnibeesOTA.dll.config
+C:\Proyectos\Web\omnibeesOTA\omnibeesOTA\bin\omnibeesOTA.dll
+C:\Proyectos\Web\omnibeesOTA\omnibeesOTA\bin\omnibeesOTA.pdb
+C:\Proyectos\Web\omnibeesOTA\omnibeesOTA\bin\Oracle.DataAccess.dll
+C:\Proyectos\Web\omnibeesOTA\omnibeesOTA\obj\Release\omnibeesOTA.csprojResolveAssemblyReference.cache
+C:\Proyectos\Web\omnibeesOTA\omnibeesOTA\obj\Release\omnibeesOTA.dll
+C:\Proyectos\Web\omnibeesOTA\omnibeesOTA\obj\Release\omnibeesOTA.pdb

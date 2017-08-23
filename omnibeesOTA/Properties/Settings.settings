@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="omnibeesOTA.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ipBD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">192.168.1.21</Value>
+    </Setting>
+    <Setting Name="serverBD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pegaso</Value>
+    </Setting>
+    <Setting Name="usuarioBD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">omnibees</Value>
+    </Setting>
+    <Setting Name="passBD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">service</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
